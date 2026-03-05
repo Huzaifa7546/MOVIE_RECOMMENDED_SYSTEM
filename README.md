@@ -1,7 +1,3 @@
-# MOVIE_RECOMMENDED_SYSTEM
-Here is a **clean and professional `README.md` template** you can use for your **Movie Recommendation System (Python + Machine Learning + Streamlit)** project. You can upload this directly to **GitHub**.
-
----
 
 # 🎬 Movie Recommendation System
 
@@ -167,5 +163,3 @@ Contributions are welcome!
 If you find this project useful, please **star the repository**.
 
 ---
-
-If you want, I can also give you a **more advanced GitHub README (with badges, screenshots, and project images)** which looks **much more professional for data science portfolios and job applications**.
